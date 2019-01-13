@@ -1,0 +1,21 @@
+{
+  "name": "Cafe-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.13.3",
+    "cryptr": "^4.0.2",
+    "express": "^4.13.3",
+    "mongoose": "^4.1.2",
+    "mongoose-enumvalues": "0.0.3",
+    "morgan": "^1.9.0",
+    "uniqid": "^5.0.3"
+  }
+}
